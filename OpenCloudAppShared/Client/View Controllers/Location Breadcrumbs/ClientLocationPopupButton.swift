@@ -59,10 +59,16 @@ open class ClientLocationPopupButton: ThemeCSSButton {
 		updateButton()
 	}
 
+	private var _didRefreshThemeAfterAttach = false
+
+	// One-shot post-attach refresh, mirroring ThemeCSSButton._hasRegistered.
 	open override func didMoveToWindow() {
 		super.didMoveToWindow()
 
-		self.updateButton()
+		if window != nil, !_didRefreshThemeAfterAttach {
+			_didRefreshThemeAfterAttach = true
+			updateButton()
+		}
 	}
 
 	func updateButton() {
