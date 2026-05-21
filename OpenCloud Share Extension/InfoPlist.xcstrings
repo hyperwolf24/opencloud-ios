@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "Delen naar OpenCloud"
           }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comparteix a OpenCloud"
+          }
         }
       }
     },
@@ -45,6 +51,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "OpenCloud Share Extension"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extensió de compartició d'OpenCloud"
           }
         }
       }
