@@ -20,6 +20,24 @@
             "state" : "translated",
             "value" : "Autorisatie mislukt"
           }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L'autorització ha fallat"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valtuus epäonnistui"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec de l'autorisation"
+          }
         }
       }
     },
@@ -41,6 +59,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "De toegang tot de Bestandsprovider is uitgeschakeld door de beheerder. Gebruik de app om nieuwe mappen aan te maken."
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L'administrador ha desactivat l'accés del proveïdor de fitxers. Si us plau, feu servir l'aplicació per crear carpetes noves."
           }
         }
       }
@@ -64,6 +88,12 @@
             "state" : "translated",
             "value" : "De toegang tot de Bestandsprovider is uitgeschakeld door de beheerder. Gebruik de share-extensie om bestanden te importeren."
           }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L'administrador ha desactivat l'accés del proveïdor de fitxers. Si us plau, utilitzeu l'extensió de compartició per importar fitxers."
+          }
         }
       }
     },
@@ -85,6 +115,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Het importeren van bestanden via de Bestandsprovider is niet toegestaan op dit apparaat."
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No es permet importar fitxers a través del proveïdor de fitxers en aquest dispositiu."
           }
         }
       }
@@ -108,6 +144,12 @@
             "state" : "translated",
             "value" : "Log in op uw account %@ in de app voor meer details."
           }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inicia la sessió al teu compte %@ a l'aplicació per obtenir més informació."
+          }
         }
       }
     },
@@ -130,6 +172,12 @@
             "state" : "translated",
             "value" : "Log in op uw account in de app voor meer details."
           }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inicia la sessió al teu compte a l'aplicació per obtenir més informació."
+          }
         }
       }
     },
@@ -151,6 +199,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "De doelmap kon niet worden gevonden op deze server. Het verplaatsen van items over servers wordt momenteel niet ondersteund."
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No s'ha trobat la carpeta de destinació en aquest servidor. Actualment no es permet moure elements entre servidors."
           }
         }
       }

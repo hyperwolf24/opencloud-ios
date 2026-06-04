@@ -20,6 +20,12 @@
             "state" : "translated",
             "value" : "%1$@ al ontgrendeld voor %2$@."
           }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ ja està desbloquejat per a %2$@."
+          }
         }
       }
     },
@@ -41,6 +47,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ ontgrendeld voor QA."
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ desbloquejat per a control de qualitat."
           }
         }
       }
@@ -64,6 +76,12 @@
             "state" : "translated",
             "value" : "%lu dag"
           }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lu dia"
+          }
         }
       }
     },
@@ -85,6 +103,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lu dagen"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lu dies"
           }
         }
       }
@@ -108,6 +132,12 @@
             "state" : "translated",
             "value" : "%lu maand"
           }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lu mes"
+          }
         }
       }
     },
@@ -129,6 +159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lu maanden"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lu mesos"
           }
         }
       }
@@ -152,6 +188,12 @@
             "state" : "translated",
             "value" : "%lu week"
           }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lu setmana"
+          }
         }
       }
     },
@@ -173,6 +215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lu weken"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lu setmanes"
           }
         }
       }
@@ -196,6 +244,12 @@
             "state" : "translated",
             "value" : "%lu jaar"
           }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lu any"
+          }
         }
       }
     },
@@ -217,6 +271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lu jaren"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lu anys"
           }
         }
       }
@@ -364,6 +424,18 @@
             "state" : "translated",
             "value" : "Geannuleerd"
           }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel·lat"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annulé"
+          }
         }
       }
     },
@@ -392,6 +464,30 @@
             "state" : "translated",
             "value" : "Datum"
           }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التاريخ"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Data"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Data"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дата"
+          }
         }
       }
     },
@@ -414,6 +510,12 @@
             "state" : "translated",
             "value" : "dag"
           }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "dia"
+          }
         }
       }
     },
@@ -432,6 +534,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EMM"
+          }
+        },
+        "ca" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "EMM"
@@ -458,6 +566,12 @@
             "state" : "translated",
             "value" : "Eindigt"
           }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finalitza"
+          }
         }
       }
     },
@@ -479,6 +593,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Enterprise"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Empresa"
           }
         }
       }
@@ -503,6 +623,12 @@
             "state" : "translated",
             "value" : "Gratis"
           }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gratuït"
+          }
         }
       }
     },
@@ -524,6 +650,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "In-app-aankopen worden niet ondersteund voor exemplaren die zijn gekocht via het Volume Purchase Program. Voor toegang tot extra functies kunt u de EMM-versie kopen."
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les compres integrades a l'aplicació no són compatibles amb les còpies comprades a través del Programa de compres per volum. Per accedir a funcions addicionals, compreu la versió EMM."
           }
         }
       }
@@ -547,6 +679,12 @@
             "state" : "translated",
             "value" : "Abonnement beheren"
           }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gestiona la subscripció"
+          }
         }
       }
     },
@@ -568,6 +706,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "maand"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mes"
           }
         }
       }
@@ -591,6 +735,12 @@
             "state" : "translated",
             "value" : "Product"
           }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Producte"
+          }
         }
       }
     },
@@ -612,6 +762,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gekochte App-versie"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versió de l'aplicació comprada"
           }
         }
       }
@@ -635,6 +791,12 @@
             "state" : "translated",
             "value" : "Aankopen zijn niet toegestaan op dit apparaat."
           }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No es permeten compres en aquest dispositiu."
+          }
         }
       }
     },
@@ -657,6 +819,12 @@
             "state" : "translated",
             "value" : "Hoeveelheid"
           }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quantitat"
+          }
         }
       }
     },
@@ -678,6 +846,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ontvangstdatum"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Data de recepció"
           }
         }
       }
@@ -807,6 +981,12 @@
             "state" : "translated",
             "value" : "week"
           }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "setmana"
+          }
         }
       }
     },
@@ -828,6 +1008,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "jaar"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "any"
           }
         }
       }
